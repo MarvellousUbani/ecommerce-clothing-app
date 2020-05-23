@@ -1,4 +1,5 @@
-# React Clothing Store 
+# Clothing Store 
+> Built using React, Redux, Graphql, CSS in JS and a couple other technologies
 
 - Users can sign in and sign up
 - Users can select a specific product, checkout and make payments 
